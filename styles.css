@@ -2,6 +2,10 @@ img {
     width: 200px;
 }
 body {
+    background-color: lightblue;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Comic sans MS";
+    text-decoration: underline
+   }
+    
 }
